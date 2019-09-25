@@ -5,7 +5,7 @@ lcRutaSis = Addbs(Justpath(Sys(16,1)))
 lcRutaExe = LeeIni(lcRutaSis+"configlaunch.ini","Generico","Ruta")
 lcExe = LeeIni(lcRutaSis+"configlaunch.ini","Generico","Ejecutable")
 
-llAcceso = .f.&&LeeIni(lcRutaSis+"configlaunch.ini","Generico","Acceso") = "S"
+llAcceso = LeeIni(lcRutaSis+"configlaunch.ini","Generico","Acceso") = "S"
 
 lnTiempoMant = Val(LeeIni(lcRutaSis+"configlaunch.ini","Mantenimiento","TiempoMant"))
 
