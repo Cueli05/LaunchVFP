@@ -17,6 +17,6 @@ Para darle uso a este Launcher es necesario que se le coloque al usuario (en cua
 *   launch.exe: Este es el ejecutable que se le debe de colocar al usuario, el mismo se le puede cambiar el nombre o el icono para que vaya mas acorde con el sistema en custión.
 *	Mantenimiento.png: Esta es la imagen que vera el usuario en el parametro ImgMant
 
-#Cambios y Mejoras
+# Cambios y Mejoras
 Te puedes sentir en total libertad de hacer cualquier mejoro y/o modificación a esta aplicacion para que vaya mas acorde a tus necesidades.
  
