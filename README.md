@@ -1,5 +1,5 @@
 # LaunchVfp
- Permite correr un ejecutable (o cualquier otro archivo, pero pensado para vfp) buscando siempre el archivo con la fecha mas reciente donde el inicio especificado del archivo tengan el mismo nombre
+ Permite correr el ejecutable con la fecha mas reciente donde el inicio especificado del archivo tengan el mismo nombre
 
 # Uso
 Para darle uso a este Launcher es necesario que se le coloque al usuario (en cualquier lugar que tenga acceso) los siguientes archivos:
