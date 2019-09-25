@@ -18,5 +18,5 @@ Para darle uso a este Launcher es necesario que se le coloque al usuario (en cua
 *	Mantenimiento.png: Esta es la imagen que vera el usuario en el parametro ImgMant
 
 # Cambios y Mejoras
-Te puedes sentir en total libertad de hacer cualquier mejoro y/o modificación a esta aplicacion para que vaya mas acorde a tus necesidades.
+Te puedes sentir en total libertad de hacer cualquier mejora y/o modificación a esta aplicacion para que vaya mas acorde a tus necesidades.
  
